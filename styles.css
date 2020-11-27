@@ -124,7 +124,7 @@ body {
 #hero {
     width: 100%;
     height: 100vh;
-    background: url("yo.png") top center;
+    background: url("images/yo.png") top center;
     background-size: cover;
     position: relative;
     margin-bottom: -90px;
